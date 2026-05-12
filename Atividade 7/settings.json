@@ -1,0 +1,7 @@
+{
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}

@@ -1,0 +1,13 @@
+Extensões instaladas no Visual Studio Code
+
+C/C++
+
+C/C++ DevTools
+
+C/C++ Extension Pack
+
+C/C++ Themes
+
+CMake Tools
+
+Go
